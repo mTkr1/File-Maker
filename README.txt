@@ -1,0 +1,1 @@
+Go to folder dist and run file_maker_v2_by_me.exe
